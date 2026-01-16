@@ -43,3 +43,4 @@ module.exports = createCoreController("api::offer.offer", ({ strapi }) => ({
     }
   },
 }));
+// test
